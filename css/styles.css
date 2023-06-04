@@ -541,7 +541,7 @@ body {
 
 .icon-list {
   display: flex;
-  gap: 16px;
+  gap: 24px;
 }
 
 .link-social-footer {
