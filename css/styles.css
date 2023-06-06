@@ -744,10 +744,11 @@ body {
 
 .form-footer {
   display: flex;
+  gap: 24px
 }
 
 .modal-footer {
-  margin-right: 24px;
+  margin-left: 24px;
 }
 
 .input-footer {
